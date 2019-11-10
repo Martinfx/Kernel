@@ -1,2 +1,2 @@
 # Kernel
-Basic work with FreeBSD or Linux kernel drivers for study.
+Basic works with FreeBSD, Linux kernel modules and drivers.
