@@ -1,4 +1,4 @@
-SRCS=module.c
-KMOD=module
+SRCS=race.c
+KMOD=race
 
 .include <bsd.kmod.mk>
