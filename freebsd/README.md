@@ -14,7 +14,8 @@
   copy data from user space to kernel space, create device in /dev/echo
 
 ## Race kernel module 
-- Race with race condition, fix me 
+- Race with fix race condition with uses mutex
+
 
 ```
  1. Checkout svn freebsd kernel svn checkout https://svn0.eu.freebsd.org/base/head /usr/src
