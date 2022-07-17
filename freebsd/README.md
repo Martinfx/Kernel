@@ -12,7 +12,9 @@
 ## Character kernel module
 - Character_module, the most common type of device driver, 
   copy data from user space to kernel space, create device in /dev/echo
-  
+
+## Race kernel module 
+- Race with race condition, fix me 
 
 ```
  1. Checkout svn freebsd kernel svn checkout https://svn0.eu.freebsd.org/base/head /usr/src
